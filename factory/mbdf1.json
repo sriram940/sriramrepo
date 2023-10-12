@@ -1,0 +1,9 @@
+{
+	"name": "mbdf1",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "6349b23a-52ea-4808-aef6-0ea9e2f3778a",
+		"tenantId": "26431ea1-f92e-4c5e-9ab4-9d09de9bda39"
+	}
+}

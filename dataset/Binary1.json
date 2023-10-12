@@ -1,0 +1,19 @@
+{
+	"name": "Binary1",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "Binary",
+		"typeProperties": {
+			"location": {
+				"type": "AzureBlobStorageLocation",
+				"fileName": "The Motorcycle Diaries (2004) [1080p] x264 - Jalucian.srt",
+				"container": "con1"
+			}
+		}
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
